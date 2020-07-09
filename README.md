@@ -1,7 +1,9 @@
 
 # Josu
 
-Josu is a simple bot that is capable doing wikipedia searches,opening google and youtube in web browser, and performing many other daily tasks like playing music with the help of a single voice command
+- Josu is a simple bot that is capable doing wikipedia searches,opening google and youtube in web browser, and performing many other daily tasks like playing music with the help of a single voice command
+- Josu uses **Google voice recognition** and **sapi5** a speech API developed by Microsoft for synthesis voice.
+
 
 ![alt text](https://github.com/Adityams06/Josu/blob/master/Chatbot/Josu1.gif)
 
