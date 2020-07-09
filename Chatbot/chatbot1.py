@@ -111,5 +111,5 @@ if __name__ == "__main__":
 
 
         elif "exit" in query:
-            speak("bye bye SIR")
+            speak("bye bye Sir")
             exit()
