@@ -104,10 +104,6 @@ if __name__ == "__main__":
             codePath = "path of your compiler here"
             os.startfile(codePath)
 
-#add aditional commands        
-#        elif "open application name":
-#           path = path of the application
-#            os.startfile(path)
 
 
         elif "exit" in query:
